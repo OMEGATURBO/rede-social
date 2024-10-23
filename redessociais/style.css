@@ -22,6 +22,15 @@ header{
      }
         nav a {
             text-decoration: chartreuse
-            color: chartreuse;
-            margin: 0rem 
+            color: lawngreen;
+            margin: 0rem 2rem 3rem 0rem;
+
         }
+        header{
+
+            background-color: lime;
+            text-align: center;
+            padding: 1px;
+        
+        }
+        
